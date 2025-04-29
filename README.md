@@ -1,3 +1,9 @@
+## Project Interface
+
+Below is a screenshot of the running web interface:
+
+![Fan Controller Interface](screenshots/interface.png)
+
 # Historical Weather Analytics Platform
 
 This Python-based project processes 67,000+ historical weather records (1840–2025) and generates dynamic HTML-based statistical reports hosted on a Raspberry Pi NGINX server.
